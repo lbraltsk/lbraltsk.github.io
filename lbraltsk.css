@@ -20,7 +20,7 @@ a:hover {
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-	width:500px;
+	width:700px;
 	padding:25px 50px 25px 50px;
 	text-align:justify;
 }
@@ -30,5 +30,14 @@ a:hover {
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:25px;
-	width:600px;
+	width:800px;
+}
+
+#inlineimg {
+	display:block;
+	marigin-left:auto;
+	margin-right:auto;
+	width:700px;
+	padding:0px 50px 0px 50px;
+	text-align:justify;
 }
